@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+#listRepo {
+    display: block;
+    justify-content: center;
+    list-style-type: none;
+    font-family: 'Anton', sans-serif;
+}
+#principal {
+    background-color: gold;
+}
+#HeaderProjetos {
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+    size: 1.7em;
+}
+#lista {
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 50px;
+}
+dt,dd{
+    /* display: none; */
+}
